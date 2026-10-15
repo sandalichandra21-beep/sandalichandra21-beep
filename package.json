@@ -2,7 +2,7 @@
   "private": true,
   "name": "e-portfolio",
   "version": "0.1.0",
-  "homepage": "https://sandalichandra21-beep.github.io/sandalichandra21-beep",
+  "homepage": "https://sandalichandra21-beep.github.io",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
