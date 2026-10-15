@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e413b74cfb3e9e9b2a25635df98e012",
+    "revision": "c7d623919b5e4936c531efe4b2f54589",
     "url": "/index.html"
   },
   {
-    "revision": "1209dc647a3219aa0f7c",
+    "revision": "7d5c6bd96e3de5109de5",
     "url": "/static/css/main.28cadba5.chunk.css"
   },
   {
-    "revision": "a03e7b2d98b9210657b5",
-    "url": "/static/js/2.820f1e25.chunk.js"
+    "revision": "68904f8e8c7d81660e82",
+    "url": "/static/js/2.9b3039ed.chunk.js"
   },
   {
-    "revision": "1209dc647a3219aa0f7c",
-    "url": "/static/js/main.72473948.chunk.js"
+    "revision": "7d5c6bd96e3de5109de5",
+    "url": "/static/js/main.f9c1265c.chunk.js"
   },
   {
     "revision": "fcb3522a2865ca8d78f9",
@@ -22,10 +22,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
-  },
-  {
-    "revision": "bad3797865a0fde6fe985fd2b44b8554",
-    "url": "/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -50,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "3a7f319391e1f52ced1b84a39d082836",
+    "url": "/static/media/HS26510019_CV.3a7f3193.pdf"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
