@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Sandali Vidumini's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I am Sandali Vidumini Sarathchandra, an ambitious Biotechnology undergraduate at SLIIT, Malabe, with a strong background in biological sciences and chemistry. Beyond my academic pursuits, I possess proficiency in core technical software, active involvement in the SLIIT Biotechnology Club, experience as a Red Cross first aider, and a passion for creative writing and martial arts. I am dedicated to combining critical thinking and scientific inquiry with collaborative teamwork to contribute meaningfully to molecular biology and modern research",
   og: {
     title: "Sandali Vidumini Portfolio",
     type: "website",
@@ -21,9 +21,9 @@ const seo = {
 const greeting = {
   title: "Sandali Vidumini",
   logo_name: "SandaliVidumini",
-  nickname: "layman_brother",
+  nickname: "",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I am Sandali Vidumini Sarathchandra, an ambitious Biotechnology undergraduate at SLIIT, Malabe, with a strong background in biological sciences and chemistry. Beyond my academic pursuits, I possess proficiency in core technical software, active involvement in the SLIIT Biotechnology Club, experience as a Red Cross first aider, and a passion for creative writing and martial arts. I am dedicated to combining critical thinking and scientific inquiry with collaborative teamwork to contribute meaningfully to molecular biology and modern research",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
