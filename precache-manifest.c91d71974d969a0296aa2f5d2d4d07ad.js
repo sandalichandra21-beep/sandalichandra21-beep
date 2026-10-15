@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7d623919b5e4936c531efe4b2f54589",
+    "revision": "5deccf178a3e14236eecb9be43450d42",
     "url": "/index.html"
   },
   {
-    "revision": "7d5c6bd96e3de5109de5",
+    "revision": "7d837f91735e1b7f6be8",
     "url": "/static/css/main.28cadba5.chunk.css"
   },
   {
-    "revision": "68904f8e8c7d81660e82",
-    "url": "/static/js/2.9b3039ed.chunk.js"
+    "revision": "e67a824bada52446f4a1",
+    "url": "/static/js/2.94c3aecb.chunk.js"
   },
   {
-    "revision": "7d5c6bd96e3de5109de5",
-    "url": "/static/js/main.f9c1265c.chunk.js"
+    "revision": "7d837f91735e1b7f6be8",
+    "url": "/static/js/main.6f0002e7.chunk.js"
   },
   {
     "revision": "fcb3522a2865ca8d78f9",
@@ -242,6 +242,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "71a210d050dcd8e40fb2cb1d6db2eefd",
+    "url": "/static/media/sandali-contact.71a210d0.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
